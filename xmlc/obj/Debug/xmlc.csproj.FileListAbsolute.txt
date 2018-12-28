@@ -1,0 +1,9 @@
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\bin\Debug\xmlc.exe.config
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\bin\Debug\xmlc.exe
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\bin\Debug\xmlc.pdb
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.csprojResolveAssemblyReference.cache
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.Properties.Resources.resources
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.csproj.GenerateResource.Cache
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.exe
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.pdb
+c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.Form1.resources
