@@ -7,3 +7,4 @@ c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.cs
 c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.exe
 c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.pdb
 c:\users\tresd\documents\visual studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.Form1.resources
+C:\Users\tresd\Documents\Visual Studio 2015\Projects\xmlc\xmlc\obj\Debug\xmlc.acep.resources

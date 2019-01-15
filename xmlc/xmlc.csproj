@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="acep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acep.Designer.cs">
+      <DependentUpon>acep.cs</DependentUpon>
+    </Compile>
     <Compile Include="coneccion.cs" />
     <Compile Include="controlesvolumetricos_v1_2.cs" />
     <Compile Include="Form1.cs">
@@ -56,6 +62,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="acep.resx">
+      <DependentUpon>acep.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

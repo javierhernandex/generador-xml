@@ -341,7 +341,8 @@ namespace xmlc
             {
 
                 escritor.WriteLine(xml);
-
+                acep acep = new acep();
+                acep.ShowDialog();
             }
 
             XmlReaderSettings booksSettings = new XmlReaderSettings();
